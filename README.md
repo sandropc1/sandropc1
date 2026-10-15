@@ -1,31 +1,62 @@
 # Hi, I'm Sandro 👋
 
-Backend engineer from São Paulo, Brazil 🇧🇷. I build APIs with **Java, Spring Boot and PostgreSQL**, and I'm slowly working my way toward **application security**, starting by understanding how backends break.
+Backend engineer based in São Paulo, Brazil 🇧🇷. I build APIs on the JVM with **Java, Kotlin and Spring Boot**, backed by **PostgreSQL**, with a strong interest in **application security**.
 
-- 🎓 B.Sc. in Computer Engineering (UTFPR). My thesis was about **SQL Injection**
-- 🔧 Currently: Spring Boot services, relational data modeling, and some Kotlin
-- 🔐 Learning: secure coding, authentication/authorization, and how real attacks work
+- 🔧 Building Spring Boot services with OAuth2/JWT security, Flyway migrations and Testcontainers integration tests
+- 🔐 Security-minded: my Computer Engineering thesis (UTFPR) was a hands-on study of **SQL Injection** exploitation and mitigation
+- 🎯 Focus: secure, well-tested backends: authentication/authorization, data integrity and clean API design
 
-### 🛠️ Stack
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+## 🛠️ Tech Stack
 
-### 📌 Projects
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### Testing & Build
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+### Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1021FF?style=for-the-badge)
+
+---
+
+## 📌 Projects
 
 | Project | What it is |
 |---|---|
 | [**TCC-SQLi**](https://github.com/sandropc1/TCC-SQLi) | Deliberately vulnerable PHP/MySQL app (Dockerized) from my UTFPR thesis, used to study SQLi exploitation and mitigation |
 | [**API-products**](https://github.com/sandropc1/API-products) | REST API with Spring Boot, Spring Security + JWT, role-based access and Swagger docs |
 | [**MarshMallowAPI-BackEnd**](https://github.com/sandropc1/MarshMallowAPI-BackEnd) | Spring Boot backend for the MarshMallow API project |
-| [**NoobChain**](https://github.com/sandropc1/NoobChain) | A minimal blockchain in Java, built to understand hashing, mining and transactions |
+| [**NoobChain**](https://github.com/sandropc1/NoobChain) | A minimal blockchain in Java: hashing, proof-of-work mining and transactions from scratch |
 
-### 📫 Contact
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandrochriste)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sandrosqrt@gmail.com)
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandrochriste)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandrosqrt@gmail.com)
