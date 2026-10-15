@@ -45,17 +45,6 @@ Backend engineer based in São Paulo, Brazil 🇧🇷. I build APIs on the JVM w
 
 ---
 
-## 📌 Projects
-
-| Project | What it is |
-|---|---|
-| [**TCC-SQLi**](https://github.com/sandropc1/TCC-SQLi) | Deliberately vulnerable PHP/MySQL app (Dockerized) from my UTFPR thesis, used to study SQLi exploitation and mitigation |
-| [**API-products**](https://github.com/sandropc1/API-products) | REST API with Spring Boot, Spring Security + JWT, role-based access and Swagger docs |
-| [**MarshMallowAPI-BackEnd**](https://github.com/sandropc1/MarshMallowAPI-BackEnd) | Spring Boot backend for the MarshMallow API project |
-| [**NoobChain**](https://github.com/sandropc1/NoobChain) | A minimal blockchain in Java: hashing, proof-of-work mining and transactions from scratch |
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandrochriste)
