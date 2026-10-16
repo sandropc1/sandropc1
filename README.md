@@ -1,4 +1,4 @@
-# Hi, I'm Sandro 👋
+# Hi, I'm Sandro 
 
 Backend engineer based in São Paulo, Brazil 🇧🇷. I build APIs on the JVM with **Java, Kotlin and Spring Boot**, backed by **PostgreSQL**, with a strong interest in **application security**.
 
